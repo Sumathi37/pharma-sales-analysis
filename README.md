@@ -87,3 +87,5 @@ Final Note:
 This project helped me understand how data analysis can be used in real business scenarios. I focused more on gaining insights rather than just creating charts.
 
 I am continuing to improve my skills in data analytics and visualization.
+
+Dataset source: [Kaggle Pharmaceutical Sales Dataset](https://www.kaggle.com/datasets/krishangupta33/pharmaceutical-company-wholesale-retail-data)
